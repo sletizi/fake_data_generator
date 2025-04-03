@@ -10,7 +10,7 @@ fake = Faker()
 electronics = ['iPhone 13', 'Samsung Galaxy S21', 'MacBook Pro', 'Sony WH-1000XM4', 'iPad Pro']
 furniture = ['IKEA Chair', 'IKEA Table', 'Sofa Set', 'Office Desk', 'Bookshelf']
 toys = ['Lego Set', 'Barbie Doll', 'Hot Wheels', 'Puzzle', 'Board Game']
-clothing = ['Nike T-Shirt', 'Adidas Sneakers', 'Levi\'s Jeans', 'H&M Jacket', 'Zara Dress']
+clothing = ['Nike T-Shirt', 'Adidas Sneakers', "Levi's Jeans", 'H&M Jacket', 'Zara Dress']
 books = ['The Great Gatsby', '1984', 'To Kill a Mockingbird', 'Moby Dick', 'War and Peace']
 
 # Dominio dei valori per la colonna Type
@@ -21,6 +21,14 @@ types = {
     'Clothing': ['T-Shirt', 'Jacket'],
     'Books': ['EBook'],
     'Unknown': ['TV', 'Smartphone', 'Hi-tech', 'EBook', 'Jacket', 'T-Shirt', 'Chair', 'Table', 'Toy']
+}
+
+# Mappatura store con dettagli
+store_mapping = {
+    1: {'StoreName': 'Coop Marche', 'City': 'Ancona', 'Latitude': 43.6158, 'Longitude': 13.5189, 'Area': 'Centro'},
+    2: {'StoreName': 'Coop Lazio', 'City': 'Roma', 'Latitude': 41.9028, 'Longitude': 12.4964, 'Area': 'Centro'},
+    3: {'StoreName': 'Coop Campania', 'City': 'Napoli', 'Latitude': 40.8518, 'Longitude': 14.2681, 'Area': 'Sud'},
+    4: {'StoreName': 'Coop Lombardia', 'City': 'Milano', 'Latitude': 45.4642, 'Longitude': 9.1900, 'Area': 'Nord'}
 }
 
 # Funzione per generare un ID prodotto univoco
@@ -96,22 +104,20 @@ start_date = datetime(2022, 1, 1)
 end_date = datetime(2023, 12, 31)
 date_range = pd.date_range(start_date, end_date)
 
-# Lista di negozi
-stores = ['Coop Marche', 'Coop Lazio', 'Coop Campania', 'Coop Lombardia']
-
 # Funzione per generare le vendite giornaliere per ciascun prodotto
 def generate_daily_sales(product, date):
     sales_volume = random.randint(0, 10)  # Numero di pezzi venduti
     base_sales_value = sales_volume * product['Price']
-    # Applicare un sovrapprezzo tra il 5% e il 25%
     sales_value = round(base_sales_value * (1 + random.uniform(0.05, 0.25)), 2)
-    store = random.choice(stores)  # Scegliere un negozio casuale
+    store_code = random.choice(list(store_mapping.keys()))  # Scegliere un codice negozio casuale
+    store_warehouse = store_code if random.random() < 0.8 else random.choice(list(store_mapping.keys()))
     return {
         'ProductID': product['ProductID'],
         'Date': date,
         'SalesVolume': sales_volume,
         'SalesValue': sales_value,
-        'Store': store
+        'StoreCode': store_code,
+        'StoreWarehouse': store_warehouse
     }
 
 # Generare la fact table delle vendite
@@ -125,10 +131,10 @@ for date in date_range:
 # Creare il DataFrame delle vendite
 sales_df = pd.DataFrame(sales_data)
 
-# Visualizzare le prime righe della tabella dei prodotti e della fact table delle vendite
-print(products_df.head())
-print(sales_df.head())
+# Creare il DataFrame di mapping Store
+store_df = pd.DataFrame.from_dict(store_mapping, orient='index').reset_index().rename(columns={'index': 'StoreCode'})
 
-# Salvare il dataset dei prodotti e la fact table delle vendite in file CSV
+# Salvare i dataset
 products_df.to_csv('products.csv', index=False)
 sales_df.to_csv('daily_sales.csv', index=False)
+store_df.to_csv('stores.csv', index=False)
