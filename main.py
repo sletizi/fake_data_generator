@@ -111,13 +111,15 @@ def generate_daily_sales(product, date):
     sales_value = round(base_sales_value * (1 + random.uniform(0.05, 0.25)), 2)
     store_code = random.choice(list(store_mapping.keys()))  # Scegliere un codice negozio casuale
     store_warehouse = store_code if random.random() < 0.8 else random.choice(list(store_mapping.keys()))
+    currency = random.choice(['EUR', 'USD', 'GBP'])  # Assegnare casualmente una valuta
     return {
         'ProductID': product['ProductID'],
         'Date': date,
         'SalesVolume': sales_volume,
         'SalesValue': sales_value,
         'StoreCode': store_code,
-        'StoreWarehouse': store_warehouse
+        'StoreWarehouse': store_warehouse,
+        'Currency': currency
     }
 
 # Generare la fact table delle vendite
