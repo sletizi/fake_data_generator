@@ -101,7 +101,7 @@ products_df = pd.DataFrame(products)
 
 # Creare una lista di date per il periodo 2022-2023
 start_date = datetime(2022, 1, 1)
-end_date = datetime(2023, 12, 31)
+end_date = datetime(2024, 12, 31)
 date_range = pd.date_range(start_date, end_date)
 
 # Funzione per generare le vendite giornaliere per ciascun prodotto
