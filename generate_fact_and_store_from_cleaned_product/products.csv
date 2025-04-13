@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Type,Price,Stock,LeadTime,ManagedBy,Brand,Description
+TNhb-4983,iPhone 13 Pro,Smartphone,Smartphone,405.43,120,10,IT,Apple,The iPhone 13 Pro by Apple combines quality and performance for everyday use.
+EeGw-2311,The Silent Patient,Books,EBook,629.8,84,3,IT,Penguin,The The Silent Patient by Penguin combines quality and performance for everyday use.
+TMCG-0242,Lego Star Wars,Toy,Toy,179.92,19,2,IT,Playmobil,The Lego Star Wars by Playmobil combines quality and performance for everyday use.
+gIiQ-2116,Nike Air Hoodie,Clothing,T-Shirt,166.69,46,2,UE,Zara,The Nike Air Hoodie by Zara combines quality and performance for everyday use.
+cJWa-0807,IKEA MALM Bed,Furniture,Table,364.46,138,3,IT,Pottery Barn,The IKEA MALM Bed by Pottery Barn combines quality and performance for everyday use.
+lWZz-9346,West Elm Andes Sofa,Furniture,Table,189.94,86,4,UE,Wayfair,The West Elm Andes Sofa by Wayfair combines quality and performance for everyday use.
+gRXB-6769,CB2 Peekaboo Table,Furniture,Chair,644.72,178,1,IT,CB2,The CB2 Peekaboo Table by CB2 combines quality and performance for everyday use.
+FHDB-7612,Pottery Barn Armchair,Furniture,Chair,417.94,38,6,IT,CB2,The Pottery Barn Armchair by CB2 combines quality and performance for everyday use.
+PrAk-5848,Wayfair Coffee Table,Furniture,Chair,935.35,183,7,IT,IKEA,The Wayfair Coffee Table by IKEA combines quality and performance for everyday use.
+aBYF-1453,Apple AirPods Pro,Electronics,Smartphone,41.0,157,2,UE,Bose,The Apple AirPods Pro by Bose combines quality and performance for everyday use.
+PZkY-5733,Herman Miller Aeron,Furniture,Chair,934.08,22,3,IT,West Elm,The Herman Miller Aeron by West Elm combines quality and performance for everyday use.
+MFjW-4530,Adidas Essentials Tee,Clothing,T-Shirt,965.24,26,5,IT,Levi's,The Adidas Essentials Tee by Levi's combines quality and performance for everyday use.
+KnIO-4202,Crate & Barrel Bookshelf,Furniture,Chair,461.36,173,3,UE,IKEA,The Crate & Barrel Bookshelf by IKEA combines quality and performance for everyday use.
+XuQi-1451,Sony WH-1000XM4,Electronics,Hi-tech,127.76,57,6,IT,Sony,The Sony WH-1000XM4 by Sony combines quality and performance for everyday use.
+BXBD-2124,Barbie Dreamhouse,Toy,Toy,463.59,177,7,IT,Lego,The Barbie Dreamhouse by Lego combines quality and performance for everyday use.
+hQOf-3394,Atomic Habits,Books,EBook,495.14,145,4,IT,Simon & Schuster,The Atomic Habits by Simon & Schuster combines quality and performance for everyday use.
+zaCb-2951,Bose SoundLink,Electronics,Smartphone,14.43,119,9,UE,Anker,The Bose SoundLink by Anker combines quality and performance for everyday use.
+hYGp-7829,The Midnight Library,Books,EBook,627.27,39,3,IT,Penguin,The The Midnight Library by Penguin combines quality and performance for everyday use.
+tAWl-3059,Article Timber Sofa,Furniture,Chair,924.03,43,4,IT,Pottery Barn,The Article Timber Sofa by Pottery Barn combines quality and performance for everyday use.
+lmCx-8612,Hot Wheels Mega Garage,Toy,Toy,625.25,196,3,UE,Fisher-Price,The Hot Wheels Mega Garage by Fisher-Price combines quality and performance for everyday use.
+cNHs-9823,NERF Elite 2.0,Toy,Toy,655.15,108,8,IT,Lego,The NERF Elite 2.0 by Lego combines quality and performance for everyday use.
+JUty-1496,Burrow Nomad Couch,Furniture,Table,993.28,145,9,IT,West Elm,The Burrow Nomad Couch by West Elm combines quality and performance for everyday use.
+UuJy-2778,Amazon Echo Dot,Electronics,Smartphone,102.52,175,10,UE,Sony,The Amazon Echo Dot by Sony combines quality and performance for everyday use.
+gjvV-5791,Sapiens,Books,EBook,135.54,147,6,IT,Simon & Schuster,The Sapiens by Simon & Schuster combines quality and performance for everyday use.
+suOu-7663,Levi's 511 Jeans,Clothing,Jacket,755.19,171,6,IT,Zara,The Levi's 511 Jeans by Zara combines quality and performance for everyday use.
+cYGL-4043,Play-Doh Kitchen,Toy,Toy,428.15,140,3,,Playmobil,The Play-Doh Kitchen by Playmobil combines quality and performance for everyday use.
+IFMD-9485,Blu Dot Strut Desk,Furniture,Table,432.35,84,6,,Wayfair,The Blu Dot Strut Desk by Wayfair combines quality and performance for everyday use.
+ieuz-8185,Educated,Books,EBook,440.25,14,2,IT,Penguin,The Educated by Penguin combines quality and performance for everyday use.
+CfGy-8724,Where the Crawdads Sing,Books,EBook,559.79,61,4,IT,Random House,The Where the Crawdads Sing by Random House combines quality and performance for everyday use.
+JkYE-9181,IKEA MALM Bed,Furniture,Table,280.15,69,10,IT,IKEA,The IKEA MALM Bed by IKEA combines quality and performance for everyday use.
+RfpW-0883,West Elm Andes Sofa,Furniture,Table,184.76,79,2,IT,CB2,The West Elm Andes Sofa by CB2 combines quality and performance for everyday use.
+xbeQ-5457,Fisher-Price Laugh & Learn,Toy,Toy,820.85,125,1,UE,Playmobil,The Fisher-Price Laugh & Learn by Playmobil combines quality and performance for everyday use.
+QFlZ-8238,CB2 Peekaboo Table,Furniture,Chair,88.98,182,10,UE,West Elm,The CB2 Peekaboo Table by West Elm combines quality and performance for everyday use.
+gyuN-0507,Zara Slim Blazer,Clothing,T-Shirt,561.33,136,1,IT,H&M,The Zara Slim Blazer by H&M combines quality and performance for everyday use.
+fUTs-1829,North Face Puffer Jacket,Clothing,Jacket,826.28,125,6,IT,Zara,The North Face Puffer Jacket by Zara combines quality and performance for everyday use.
+QIDP-4657,H&M Cotton Shirt,Clothing,Jacket,692.25,183,10,IT,Levi's,The H&M Cotton Shirt by Levi's combines quality and performance for everyday use.
+DhcP-9264,Becoming,Books,EBook,49.09,61,1,IT,HarperCollins,The Becoming by HarperCollins combines quality and performance for everyday use.
+JezU-6048,Uniqlo Ultra Light Down,Clothing,T-Shirt,611.25,132,8,IT,Puma,The Uniqlo Ultra Light Down by Puma combines quality and performance for everyday use.
+tkLW-4029,Google Nest Hub,Electronics,TV,43.38,45,2,IT,Bose,The Google Nest Hub by Bose combines quality and performance for everyday use.
+joyz-4282,The Alchemist,Books,EBook,633.26,173,2,UE,HarperCollins,The The Alchemist by HarperCollins combines quality and performance for everyday use.
+kesf-3214,Generic Office Chair,Misc,TV,436.83,87,5,IT,Logitech,The Generic Office Chair by Logitech combines quality and performance for everyday use.
+PjPH-0464,Samsung Galaxy Buds,Electronics,Hi-tech,80.17,1,5,,Bose,The Samsung Galaxy Buds by Bose combines quality and performance for everyday use.
+iSdd-1425,Puma Track Pants,Clothing,T-Shirt,502.5,178,10,UE,Puma,The Puma Track Pants by Puma combines quality and performance for everyday use.
+FqqV-5844,Anker SoundCore,Electronics,Smartphone,503.35,32,9,IT,Bose,The Anker SoundCore by Bose combines quality and performance for everyday use.
+dbQE-0005,Dune,Books,EBook,136.36,38,3,IT,Bloomsbury,The Dune by Bloomsbury combines quality and performance for everyday use.
+oLnE-4952,1984,Books,EBook,873.19,92,7,IT,Penguin,The 1984 by Penguin combines quality and performance for everyday use.
+vBQD-6291,Calvin Klein Boxers,Clothing,Jacket,368.51,106,5,UE,Puma,The Calvin Klein Boxers by Puma combines quality and performance for everyday use.
+vsRH-2960,Tommy Hilfiger Polo,Clothing,Jacket,363.53,185,2,UE,Puma,The Tommy Hilfiger Polo by Puma combines quality and performance for everyday use.
+CqnW-1495,The Silent Patient,Books,EBook,958.29,147,10,IT,HarperCollins,The The Silent Patient by HarperCollins combines quality and performance for everyday use.
+VssK-1055,UNO Card Game,Toy,Toy,679.44,39,2,IT,Playmobil,The UNO Card Game by Playmobil combines quality and performance for everyday use.
+JRVf-4313,Jenga Classic,Toy,Toy,344.89,107,3,,Lego,The Jenga Classic by Lego combines quality and performance for everyday use.
+GSmB-5775,Nike Air Hoodie,Clothing,T-Shirt,217.82,175,3,IT,H&M,The Nike Air Hoodie by H&M combines quality and performance for everyday use.
+BvMp-9178,Pottery Barn Armchair,Furniture,Chair,310.72,27,1,IT,IKEA,The Pottery Barn Armchair by IKEA combines quality and performance for everyday use.
+JEDL-6798,Adidas Essentials Tee,Clothing,T-Shirt,961.14,183,6,IT,Adidas,The Adidas Essentials Tee by Adidas combines quality and performance for everyday use.
+olFd-0300,Atomic Habits,Books,EBook,316.1,18,6,IT,Random House,The Atomic Habits by Random House combines quality and performance for everyday use.
+fboh-5937,Levi's 511 Jeans,Clothing,Jacket,997.56,130,2,UE,Nike,The Levi's 511 Jeans by Nike combines quality and performance for everyday use.
+Qudx-2448,Fitbit Charge 5,Electronics,Smartphone,139.37,89,6,UE,Apple,The Fitbit Charge 5 by Apple combines quality and performance for everyday use.
+pFXC-0459,Garmin Forerunner,Electronics,Smartphone,772.87,20,1,,Sony,The Garmin Forerunner by Sony combines quality and performance for everyday use.
+itrC-5597,Wayfair Coffee Table,Furniture,Chair,644.14,79,1,IT,IKEA,The Wayfair Coffee Table by IKEA combines quality and performance for everyday use.
+Sxre-2030,The Midnight Library,Books,EBook,971.83,131,4,IT,Bloomsbury,The The Midnight Library by Bloomsbury combines quality and performance for everyday use.
+QuUl-8749,Kindle Paperwhite,Electronics,TV,976.93,54,3,IT,Bose,The Kindle Paperwhite by Bose combines quality and performance for everyday use.
+tyeC-2254,Sapiens,Books,EBook,450.24,137,1,IT,Random House,The Sapiens by Random House combines quality and performance for everyday use.
+srps-7972,Connect 4,Toy,Toy,247.4,196,10,IT,Fisher-Price,The Connect 4 by Fisher-Price combines quality and performance for everyday use.
+xLCp-0759,Apple AirPods Pro,Electronics,Smartphone,596.59,57,2,IT,Amazon,The Apple AirPods Pro by Amazon combines quality and performance for everyday use.
+qdZH-9877,Herman Miller Aeron,Furniture,Chair,980.39,41,2,,West Elm,The Herman Miller Aeron by West Elm combines quality and performance for everyday use.
+Pwga-7746,Educated,Books,EBook,115.14,164,2,IT,Simon & Schuster,The Educated by Simon & Schuster combines quality and performance for everyday use.
+nmSW-6668,Crate & Barrel Bookshelf,Furniture,Chair,64.66,173,10,IT,IKEA,The Crate & Barrel Bookshelf by IKEA combines quality and performance for everyday use.
+pQxM-8871,Where the Crawdads Sing,Books,EBook,534.52,200,9,IT,HarperCollins,The Where the Crawdads Sing by HarperCollins combines quality and performance for everyday use.
+EmjK-9178,Becoming,Books,EBook,384.93,198,8,UE,Random House,The Becoming by Random House combines quality and performance for everyday use.
+bhAn-0398,The Alchemist,Books,EBook,318.59,133,3,,Penguin,The The Alchemist by Penguin combines quality and performance for everyday use.
+mKgk-2456,Monopoly Classic,Toy,Toy,810.68,45,8,IT,Mattel,The Monopoly Classic by Mattel combines quality and performance for everyday use.
+iANi-3516,Lego Star Wars,Toy,Toy,402.67,179,5,UE,Playmobil,The Lego Star Wars by Playmobil combines quality and performance for everyday use.
+mgMq-8367,Dune,Books,EBook,196.83,63,1,IT,Random House,The Dune by Random House combines quality and performance for everyday use.
+gipK-3736,Article Timber Sofa,Furniture,Chair,830.09,147,7,IT,IKEA,The Article Timber Sofa by IKEA combines quality and performance for everyday use.
+Qckn-7988,Barbie Dreamhouse,Toy,Toy,403.03,196,5,IT,Lego,The Barbie Dreamhouse by Lego combines quality and performance for everyday use.
+XXGf-8148,1984,Books,EBook,633.2,10,3,UE,HarperCollins,The 1984 by HarperCollins combines quality and performance for everyday use.
+Qcfv-0534,The Silent Patient,Books,EBook,201.47,82,7,IT,Simon & Schuster,The The Silent Patient by Simon & Schuster combines quality and performance for everyday use.
+ByEE-7591,Atomic Habits,Books,EBook,437.29,19,1,IT,HarperCollins,The Atomic Habits by HarperCollins combines quality and performance for everyday use.
+uaKQ-3184,Burrow Nomad Couch,Furniture,Table,359.12,48,3,IT,Pottery Barn,The Burrow Nomad Couch by Pottery Barn combines quality and performance for everyday use.
+KaAC-7684,The Midnight Library,Books,EBook,660.52,89,3,IT,Simon & Schuster,The The Midnight Library by Simon & Schuster combines quality and performance for everyday use.
+yNlO-5615,Sapiens,Books,EBook,271.88,22,8,UE,Simon & Schuster,The Sapiens by Simon & Schuster combines quality and performance for everyday use.
+ZmiX-0179,Blu Dot Strut Desk,Furniture,Table,84.27,8,5,IT,CB2,The Blu Dot Strut Desk by CB2 combines quality and performance for everyday use.
+KjCa-8653,Sony WH-1000XM4,Electronics,TV,550.3,99,1,IT,Amazon,The Sony WH-1000XM4 by Amazon combines quality and performance for everyday use.
+YQtf-4263,Bose SoundLink,Electronics,Hi-tech,164.25,47,10,IT,Amazon,The Bose SoundLink by Amazon combines quality and performance for everyday use.
+jpYY-1718,Amazon Echo Dot,Electronics,TV,27.43,113,10,UE,Sony,The Amazon Echo Dot by Sony combines quality and performance for everyday use.
+jHXL-6684,Google Nest Hub,Electronics,TV,888.3,67,2,,Apple,The Google Nest Hub by Apple combines quality and performance for everyday use.
+PtAZ-7396,Zara Slim Blazer,Clothing,Jacket,995.67,135,2,UE,H&M,The Zara Slim Blazer by H&M combines quality and performance for everyday use.
+qJVw-4883,IKEA MALM Bed,Furniture,Table,545.99,149,9,IT,IKEA,The IKEA MALM Bed by IKEA combines quality and performance for everyday use.
+xPlc-7505,North Face Puffer Jacket,Clothing,T-Shirt,745.54,123,3,IT,Nike,The North Face Puffer Jacket by Nike combines quality and performance for everyday use.
+ffQc-3545,Educated,Books,EBook,283.58,19,3,IT,Penguin,The Educated by Penguin combines quality and performance for everyday use.
+ENPS-8428,H&M Cotton Shirt,Clothing,Jacket,37.82,181,7,IT,Nike,The H&M Cotton Shirt by Nike combines quality and performance for everyday use.
+ykBI-9130,Uniqlo Ultra Light Down,Clothing,Jacket,91.28,128,9,IT,Nike,The Uniqlo Ultra Light Down by Nike combines quality and performance for everyday use.
+Uxje-5116,West Elm Andes Sofa,Furniture,Chair,14.68,107,5,IT,IKEA,The West Elm Andes Sofa by IKEA combines quality and performance for everyday use.
+cZvj-4585,Puma Track Pants,Clothing,T-Shirt,617.82,79,4,IT,Levi's,The Puma Track Pants by Levi's combines quality and performance for everyday use.
+pSMh-5512,CB2 Peekaboo Table,Furniture,Chair,868.73,187,2,IT,IKEA,The CB2 Peekaboo Table by IKEA combines quality and performance for everyday use.
+rPXg-4909,Hot Wheels Mega Garage,Toy,Toy,510.14,184,6,IT,Lego,The Hot Wheels Mega Garage by Lego combines quality and performance for everyday use.
+gceD-3109,Calvin Klein Boxers,Clothing,Jacket,788.58,93,10,IT,Puma,The Calvin Klein Boxers by Puma combines quality and performance for everyday use.
+iENE-7522,Pottery Barn Armchair,Furniture,Chair,492.17,121,3,IT,Pottery Barn,The Pottery Barn Armchair by Pottery Barn combines quality and performance for everyday use.
+nOVR-9039,Tommy Hilfiger Polo,Clothing,T-Shirt,483.85,68,3,IT,Zara,The Tommy Hilfiger Polo by Zara combines quality and performance for everyday use.
+TmyU-6402,Wayfair Coffee Table,Furniture,Table,460.37,153,1,IT,Pottery Barn,The Wayfair Coffee Table by Pottery Barn combines quality and performance for everyday use.
